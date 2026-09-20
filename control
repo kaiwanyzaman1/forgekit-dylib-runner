@@ -1,0 +1,8 @@
+Package: com.kaiwan.license
+Name: Kaiwan License
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Description: License System by @kaiwan1020
+Maintainer: Kaiwan <https://t.me/kaiwan1020>
+Author: Kaiwan
+Depends: mobilesubstrate
